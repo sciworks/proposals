@@ -1,6 +1,6 @@
-## Stateless Labs Proposals
+## Sciworks Proposals
 
-**⭐️ Welcome to Stateless Labs Proposals! ⭐️**
+**⭐️ Welcome to Sciworks Proposals! ⭐️**
 
 We are an open source group focused on Scientific & distributed applications.
 We have a lot of ideas, and this repository is where we put soe of them.
@@ -21,7 +21,7 @@ And if you want to work on an incubating proposal further, just open a pull requ
 
 To submit a proposal, you will open a pull request to the repository. 
 
-1. The markdown file should be added under [proposals](https://github.com/stateless-labs/proposals/tree/main/proposals) at the top level.
+1. The markdown file should be added under [proposals](https://github.com/sciworks/proposals/tree/main/proposals) at the top level.
 2. The name of the file should correspond to the title, e.g., "Automated Container Builds" should be `proposals/automated-container-builds.md`. Only lowercase letters, numbers, and `-` are allowed in the name.
 3. You should not write the title in the document - it will be added by the automation.
 4. You should not add any front end matter, as it will be automatically added.

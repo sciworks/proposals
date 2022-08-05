@@ -15,15 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: Stateless Labs
+title: Sciworks Labs
 description: > # this means to ignore newlines until "baseurl:"
-  Stateless Labs Proposals
+  Sciworks Proposals
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "/proposals" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://stateless-labs.github.io" # the base hostname & protocol for your site
+url: "https://sciworks.github.io" # the base hostname & protocol for your site
 
 # Keywords (space separated)
 keywords: "stateless labs, open source, proposals, projects"
@@ -35,14 +35,14 @@ add_permalinks: true
 # Optional
 # twitter: vsoch
 # linkedin: vsochat
-support: https://github.com/stateless-labs/proposals/issues
-repo: "https://github.com/stateless-labs/proposals"
-github_user: stateless-labs
+support: https://github.com/sciworks/proposals/issues
+repo: "https://github.com/sciworks/proposals"
+github_user: sciworks
 github_repo: proposals
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
-logo: assets/img/stateless-labs.png
+logo: assets/img/sciworks.png
 
 # branch to edit on GitHub
 github_branch: main
