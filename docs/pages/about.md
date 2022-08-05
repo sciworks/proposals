@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-This is a collaborative space under Stateless Labs to work on resources and good practices for open source software across the research software engineering and open source communities.
+This is a collaborative space to work on resources and good practices for open source software across the research software engineering and open source communities.
 
 ## Support
 

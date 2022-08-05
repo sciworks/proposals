@@ -26,7 +26,7 @@ baseurl: "/proposals" # the subpath of your site, e.g. /blog
 url: "https://sciworks.github.io" # the base hostname & protocol for your site
 
 # Keywords (space separated)
-keywords: "stateless labs, open source, proposals, projects"
+keywords: "sciworks, cloud native, hpc, tools, open source, proposals, projects"
 
 # Add colorful permalinks to headers
 # change colors in _includes/permalinks.html

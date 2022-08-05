@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Stateless Labs Projects
+title: Sciworks Projects
 permalink: /
 ---
 
-## Welcome to Stateless Labs!
+## Welcome to Sciworks!
 
 <br>
 
