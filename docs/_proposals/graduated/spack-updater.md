@@ -2,7 +2,7 @@
 title: Spack Updater
 layout: proposal
 tags: 
- - in-review
+ - developed
 ---
 
 _spack updater_
@@ -15,6 +15,9 @@ is opened by a user, and adding new versions is a manual process that can be eas
 <a href="{{ site.baseurl }}/assets/img/proposals/spack-updater.jpg"><img src="{{ site.baseurl }}/assets/img/proposals/spack-updater.jpg"></a>
 
 > Sketch for design by [@alecbcs](https://github.com/alecbcs)
+
+This project is mostly complete! See [spack-updater](https://github.com/sciworks/spack-updater)
+for examples and details.
 
 ## Spack Updater
 
@@ -48,3 +51,4 @@ and this workflow would retrieve the updated file and open a pull request (withi
 ### Projects Interested
 
  - [flux-framework](https://github.com/flux-framework/)
+ 
